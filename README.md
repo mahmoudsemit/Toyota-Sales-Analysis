@@ -1,49 +1,71 @@
-🚗 Toyota Sales Analysis – SQL & Tableau Project
-📌 Overview
+🚗 Toyota Sales Analysis
 
-Analyzed Toyota vehicle sales data using SQL for data analysis and Tableau for visualization to uncover sales trends, model performance, and market insights that support data-driven business decisions.
+Python • MySQL • Tableau
 
-🛠 Tech Stack
+📌 Project Overview
 
-SQL (MySQL) | Tableau | Excel / CSV
+This project analyzes Toyota used car sales data to uncover pricing trends, demand patterns, and business insights.
+The analysis combines Python, MySQL queries, and a Tableau dashboard to support data-driven decision-making.
 
-🔍 Key Analyses
+🛠 Tools & Technologies
 
-Sales trends by year and model
+Python (Pandas, NumPy, Matplotlib)
 
-Price vs sales volume analysis
+MySQL (data querying & aggregation)
 
-Engine size and fuel type performance
+Tableau (interactive dashboard & KPIs)
 
-Regional and category-wise comparisons
+📊 Key Analysis Areas
 
-📊 Key Insights
+Price trends by model, year, mileage, and engine size
 
-Certain Toyota models consistently outperform others in sales
+Depreciation analysis (per year & per 10,000 miles)
 
-Mid-priced vehicles show higher demand than premium models
+Market share and model demand
 
-Engine size and fuel type influence buyer preference
+Price variability and investment risk
 
-Clear seasonal and regional sales patterns exist
+Fuel efficiency, road tax, and ownership cost insights
 
-💼 Business Value
+📈 Tableau Dashboard
 
-Supports inventory and production planning
+The dashboard visualizes:
 
-Helps optimize pricing and product positioning
+Average price by model
 
-Improves market and performance analysis
+Depreciation trends
 
-📁 Files
+High-demand vs low-demand models
 
-toyota_sales_analysis.sql – SQL analysis queries
+Key KPIs for dealer decision-making
 
-toyota_sales_dashboard.twbx – Tableau dashboard
+(Dashboard link can be added here)
 
-toyota_sales.csv – Dataset
+💡 Business Insights
+
+Identified models with strong value retention
+
+Highlighted low-demand vehicles to avoid stocking
+
+Provided data-driven pricing recommendations for dealers
+
+🎯 Why This Project?
+
+This project demonstrates:
+
+End-to-end data analysis workflow
+
+Ability to translate data into business recommendations
+
+Practical use of SQL, Python, and BI tools together
+
+📂 Repository Structure
+├── python_analysis/
+├── mysql_queries/
+├── tableau_dashboard/
+└── README.md
 
 👤 Author
 
 Mahmoud Ibrahim
-Aspiring Data Analyst
+Aspiring Data Analyst | Python • SQL • BI
